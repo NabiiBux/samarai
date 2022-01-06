@@ -1,0 +1,344 @@
+Uri: https://samuraisaga.club/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/css/samurai-saga.webflow.27358ff05.css
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\css\samurai-saga.webflow.27358ff05.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/619012093f58e7f20158cb86_ss-fav.png
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\619012093f58e7f20158cb86_ss-fav.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61901217d9f1200cac44132c_ss-clip.png
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61901217d9f1200cac44132c_ss-clip.png
+Content Type: image/png
+
+Uri: https://whitelist.samuraisaga.com/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\index
+Content Type: text/html
+
+Uri: https://twitter.com/thesamuraisaga
+File Name: C:\Downloaded Web Sites\samuraisaga.club\thesamuraisaga.html
+Content Type: text/html
+
+Uri: https://opensea.io/collection/samuraisaga
+File Name: C:\Downloaded Web Sites\samuraisaga.club\collection\samuraisaga.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/kvazy/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\kvazy\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/dinotomic/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\dinotomic\index.htm
+Content Type: text/html
+
+Uri: https://www.dearfuture.agency/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\index-1.htm
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\samuraisaga.club\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2bb3c589e13c21c7ed13_Samurai Saga Logo.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618b2bb3c589e13c21c7ed13_Samurai Saga Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c0498f3695a18142fa64d_logo-shape.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c0498f3695a18142fa64d_logo-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2baff2b89a6cc1ab60c0_9999.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618b2baff2b89a6cc1ab60c0_9999.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2baf7eb50ee4057466f9_rndm.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618b2baf7eb50ee4057466f9_rndm.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2baf06bab0f0a01c5582_hifi.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618b2baf06bab0f0a01c5582_hifi.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c6c2d7f656abbf9c8060a_discord.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c6c2d7f656abbf9c8060a_discord.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c6c2e7593ee6af4bc93e5_twitter.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c6c2e7593ee6af4bc93e5_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2d3a70bb5b0f633d6ca0_instagram.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618b2d3a70bb5b0f633d6ca0_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c6c2e720888a5b3b83a98_opensea.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c6c2e720888a5b3b83a98_opensea.svg
+Content Type: image/svg+xml
+
+Uri: https://player.vimeo.com/video/645229891?background=1
+File Name: C:\Downloaded Web Sites\samuraisaga.club\video\645229891.html
+Content Type: text/html
+
+Uri: https://player.vimeo.com/video/645591081?background=1
+File Name: C:\Downloaded Web Sites\samuraisaga.club\video\645591081.html
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c6d6145d18e47cffb5f85_jp-hero.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c6d6145d18e47cffb5f85_jp-hero.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c76e53579d6bc5c7582b7_jp-story2.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c76e53579d6bc5c7582b7_jp-story2.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcc24812f8d8add25a9_samurai-17.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcc24812f8d8add25a9_samurai-17.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb626fcc46191288c3_samurai-16.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb626fcc46191288c3_samurai-16.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb00ca0167c7dbec4b_samurai-15.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb00ca0167c7dbec4b_samurai-15.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb67b99f2c63074141_samurai-14.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb67b99f2c63074141_samurai-14.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb31e81ad7bc7b9d77_samurai-13.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb31e81ad7bc7b9d77_samurai-13.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb9142bd1d9dbc25e5_samurai-12.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb9142bd1d9dbc25e5_samurai-12.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb9142bdfcc0bc25e4_samurai-11.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb9142bdfcc0bc25e4_samurai-11.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcba28539b263605e68_samurai-10.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcba28539b263605e68_samurai-10.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb4e5c8f77dc79e536_samurai-9.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb4e5c8f77dc79e536_samurai-9.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb971cd51bbe71d017_samurai-8.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb971cd51bbe71d017_samurai-8.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca202c45752211f046_samurai-7.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca202c45752211f046_samurai-7.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca2605db718ee93bbc_samurai-6.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca2605db718ee93bbc_samurai-6.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb8838b031274096fb_samurai-5.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb8838b031274096fb_samurai-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb202c45a3f711f05a_samurai-4.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb202c45a3f711f05a_samurai-4.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca0a650b660f17f00b_samurai-3.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca0a650b660f17f00b_samurai-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca55a4dbce9d02b34e_samurai-2.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca55a4dbce9d02b34e_samurai-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb55a4db5cd002b350_samurai-1.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb55a4db5cd002b350_samurai-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec68cfbc2003b6375cc67_samurai28.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec68cfbc2003b6375cc67_samurai28.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c760cf1a294cb8ceed055_jp-spec.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c760cf1a294cb8ceed055_jp-spec.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c014ad5ca024c3d57e28b_notice-icon.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c014ad5ca024c3d57e28b_notice-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61914e1769a98ac64d37a33f_samurai grunge.png
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61914e1769a98ac64d37a33f_samurai grunge.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c774fb724e8965471718f_jp-team.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c774fb724e8965471718f_jp-team.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec67f6c7ec2070a5f18fc_samurai6.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec67f6c7ec2070a5f18fc_samurai6.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/619163461bfe91ce9267b794_insta-red.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\619163461bfe91ce9267b794_insta-red.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec680d2c9a0077ad02a43_samurai9.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec680d2c9a0077ad02a43_samurai9.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec6832bad111c04543dbb_samurai16.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec6832bad111c04543dbb_samurai16.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec68a3ec2733028f168c1_samurai33.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec68a3ec2733028f168c1_samurai33.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec68881139094e6a17c43_samurai26.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec68881139094e6a17c43_samurai26.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec68bc92ccf95f873c0cb_samurai31.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec68bc92ccf95f873c0cb_samurai31.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ec68a4f4f206ea4f8d677_samurai30.jpg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ec68a4f4f206ea4f8d677_samurai30.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c0c1bbf1c8a8e4a310626_arrow-l.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c0c1bbf1c8a8e4a310626_arrow-l.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c0c1b2f4884a4338a84c1_arrow-r.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618c0c1b2f4884a4338a84c1_arrow-r.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618d14f7ed618842a876e9c1_jp-roadmap1.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618d14f7ed618842a876e9c1_jp-roadmap1.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618ced6f7382fabe3e1d823b_red-line.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\618ced6f7382fabe3e1d823b_red-line.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/6190576289cbccacf69341ed_jp-footer2.svg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\6190576289cbccacf69341ed_jp-footer2.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=618920e5b4d12352352ee7e3
+File Name: C:\Downloaded Web Sites\samuraisaga.club\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/js/webflow.38237cdf9.js
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\js\webflow.38237cdf9.js
+Content Type: text/javascript
+
+Uri: https://min30327.github.io/luxy.js/dist/js/luxy.js
+File Name: C:\Downloaded Web Sites\samuraisaga.club\luxy.js\dist\js\luxy.js
+Content Type: application/javascript
+
+Uri: https://samuraisaga.club/assets/jquery.min.js
+File Name: C:\Downloaded Web Sites\samuraisaga.club\assets\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://samuraisaga.club/assets/web3.js
+File Name: C:\Downloaded Web Sites\samuraisaga.club\assets\web3.js
+Content Type: application/javascript
+
+Uri: https://samuraisaga.club/assets/contract.js?asdas
+File Name: C:\Downloaded Web Sites\samuraisaga.club\assets\contract.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcc24812f8d8add25a9_samurai-17-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcc24812f8d8add25a9_samurai-17-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb626fcc46191288c3_samurai-16-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb626fcc46191288c3_samurai-16-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb00ca0167c7dbec4b_samurai-15-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb00ca0167c7dbec4b_samurai-15-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb67b99f2c63074141_samurai-14-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb67b99f2c63074141_samurai-14-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb31e81ad7bc7b9d77_samurai-13-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb31e81ad7bc7b9d77_samurai-13-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb9142bd1d9dbc25e5_samurai-12-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb9142bd1d9dbc25e5_samurai-12-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb9142bdfcc0bc25e4_samurai-11-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb9142bdfcc0bc25e4_samurai-11-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcba28539b263605e68_samurai-10-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcba28539b263605e68_samurai-10-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb4e5c8f77dc79e536_samurai-9-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb4e5c8f77dc79e536_samurai-9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb971cd51bbe71d017_samurai-8-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb971cd51bbe71d017_samurai-8-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca202c45752211f046_samurai-7-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca202c45752211f046_samurai-7-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca2605db718ee93bbc_samurai-6-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca2605db718ee93bbc_samurai-6-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb8838b031274096fb_samurai-5-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb8838b031274096fb_samurai-5-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb202c45a3f711f05a_samurai-4-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb202c45a3f711f05a_samurai-4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca0a650b660f17f00b_samurai-3-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca0a650b660f17f00b_samurai-3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dca55a4dbce9d02b34e_samurai-2-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dca55a4dbce9d02b34e_samurai-2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61bb0dcb55a4db5cd002b350_samurai-1-p-500.jpeg
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61bb0dcb55a4db5cd002b350_samurai-1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61914e1769a98ac64d37a33f_samurai grunge-p-500.png
+File Name: C:\Downloaded Web Sites\samuraisaga.club\618920e5b4d12352352ee7e3\61914e1769a98ac64d37a33f_samurai grunge-p-500.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/samuraisaga
+File Name: C:\Downloaded Web Sites\samuraisaga.club\invite\samuraisaga.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/thesamuraisaga/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\thesamuraisaga\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Downloaded Web Sites\samuraisaga.club\accounts\login\index.htm
+Content Type: text/html
+
